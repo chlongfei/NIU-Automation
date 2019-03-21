@@ -1,5 +1,8 @@
 READ ME FOR AUTO_CONFIRMATION_EMAIL_ON_FORM_SUBMIT.GS
 
+* * SCRIPT DESIGNED FOR USE IN GOOGLE SUITE ONLY - NOT PERSONAL GMAIL ACCOUNTS * *
+
+
 - SCRIPT PURPOSE -
 Sending an custom automated HTML based email to specified email address via noreply (send only address) 
 on the triggered and data input by new google form submission. 
