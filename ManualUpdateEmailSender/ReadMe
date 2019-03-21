@@ -1,0 +1,14 @@
+README FOR MANUAL_UPDATE_EMAIL_SENDER.GS
+
+* * SCRIPT DESIGNED FOR USE IN GOOGLE SUITE ONLY - NOT PERSONAL GMAIL ACCOUNTS * *
+			some modification is required for use on personal gmail account
+
+- SCRIPT PURPOSE -
+Sending an custom automated HTML based email to specified email address via noreply (send only address) 
+triggered by button created in google sheets, data fed by highlighted cells.
+
+Script detects highlighted column and scans for items that user has indicated as more than 0 quantity.
+Items with 0 quantity will not be included in email body.
+
+- NOTE - 
+Script written for specially formatted google sheets document, not universal.
