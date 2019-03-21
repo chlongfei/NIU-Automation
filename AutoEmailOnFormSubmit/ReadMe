@@ -1,0 +1,12 @@
+READ ME FOR AUTO_CONFIRMATION_EMAIL_ON_FORM_SUBMIT.GS
+
+- SCRIPT PURPOSE -
+Sending an custom automated HTML based email to specified email address via noreply (send only address) 
+on the triggered and data input by new google form submission. 
+
+- SETUP -
+This script needs to be linked to a google sheets with the proper headers in Row 1 of the Response sheet 
+that is linked to a google form. 
+
+Within the script, you may enter a CC address (line 66) if you wish to be CCced in EVERY automated message triggered by the gform.
+A default reply-to email can also be set under the CC field (line 67)
